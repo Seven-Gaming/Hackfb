@@ -273,9 +273,7 @@ clear
       sleep 2
       echo $hijau "masukan input yg benar :v"
       sleep 3
-clear
       echo $ulang
-clear
-  fi
+fi
 done
 
