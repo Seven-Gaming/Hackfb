@@ -274,6 +274,8 @@ clear
       echo $hijau "masukan input yg benar :v"
       sleep 3
       echo $ulang
+clear
+
 fi
 done
 
