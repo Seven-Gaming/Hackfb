@@ -265,7 +265,6 @@ clear
 
   elif [ $pilih = "0" ];
   then
-      echo "exit"
       echo $hijau "terimakasih telah menggunakan script kami !!! "
       echo "_________________________________________"
       sleep 2
