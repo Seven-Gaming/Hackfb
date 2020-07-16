@@ -265,9 +265,10 @@ clear
 
   elif [ $pilih = "0" ];
   then
+      echo "exit"
       echo $hijau "terimakasih telah menggunakan script kami !!! "
+      echo "_________________________________________"
       sleep 2
-      elif [ $pilih = "12" ];
   else
       echo "ERROR BOSSQU : input yg anda masukan tidak ada "
       sleep 2
@@ -275,6 +276,7 @@ clear
       sleep 3
 clear
       echo $ulang
+clear
   fi
 done
 
