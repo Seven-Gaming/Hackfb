@@ -57,10 +57,10 @@ echo $kuning "__________________________________________________________________
 
 read -p "masukan nama anda di sini :" nama
 sleep 0.2
-echo $hijau "selamat datang di script cyber noob" $nama
+echo $hijau "selamat datang di script cyber noob Tuan" $nama
 sleep 3
 echo $merah "gunakan script ini dengan bijak !!!"
-sleep 3
+sleep 4
 
 clear
 
