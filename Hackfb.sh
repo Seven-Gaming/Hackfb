@@ -138,7 +138,7 @@ do
   sleep 0.1
   echo $hijau"( 11 )$biru Hack WA$hijau msfkuy $kuning=============> $hijau PASSWORD =$merah buka1234"
   sleep 0.1
-  echo "(12 ) Update script"
+  echo $hijau"( 12 ) Update script"
   sleep 0.1
   echo $hijau"( 0 )$merah exit"
   sleep 0.1
@@ -265,18 +265,16 @@ clear
 
   elif [ $pilih = "0" ];
   then
-      echo "exit"
       echo $hijau "terimakasih telah menggunakan script kami !!! "
-      echo "_________________________________________"
       sleep 2
+      exit
   else
       echo "ERROR BOSSQU : input yg anda masukan tidak ada "
       sleep 2
       echo $hijau "masukan input yg benar :v"
       sleep 3
+clear      
       echo $ulang
-clear
-
 fi
 done
 
