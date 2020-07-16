@@ -138,6 +138,8 @@ do
   sleep 0.1
   echo $hijau"( 11 )$biru Hack WA$hijau msfkuy $kuning=============> $hijau PASSWORD =$merah buka1234"
   sleep 0.1
+  echo "(12 ) Update script"
+  sleep 0.1
   echo $hijau"( 0 )$merah exit"
   sleep 0.1
   read -p "masukan pilihan anda : " pilih;
@@ -248,11 +250,24 @@ clear
       sh msfkuy.sh
 clear
 
+  elif [ $pilih = "12" ];
+  then
+      echo "installing update........"
+      echo $HOME
+      cd
+      rm -fr Hackfb
+      git clone https://github.com/Seven-Gaming/Hackfb
+      cd Hackfb
+      sh Hackfb.sh
+      echo "installing update succes....."
+      echo
+clear
+
   elif [ $pilih = "0" ];
   then
       echo $hijau "terimakasih telah menggunakan script kami !!! "
       sleep 2
-      exit
+      elif [ $pilih = "12" ];
   else
       echo "ERROR BOSSQU : input yg anda masukan tidak ada "
       sleep 2
