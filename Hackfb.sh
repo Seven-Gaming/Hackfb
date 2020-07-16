@@ -138,7 +138,7 @@ do
   sleep 0.1
   echo $hijau"( 11 )$biru Hack WA$hijau msfkuy $kuning=============> $hijau PASSWORD =$merah buka1234"
   sleep 0.1
-  echo $merah"( 0 ) exit"
+  echo $hijau"( 0 )$merah exit"
   sleep 0.1
   read -p "masukan pilihan anda : " pilih;
   sleep 0.1
@@ -153,7 +153,7 @@ do
       pkg install mechanize
       pkg install requests
       echo "installing succes....!! "
-      sleep 1
+      sleep 2
 clear
 
   elif [ $pilih = "2" ];
