@@ -9,49 +9,139 @@ cyngga="\033[36;1m"
 putih="\033[37;1m"
 
 clear
-                              
+
+echo $putih " ##  #  #  ####### ####       ######   ####   ##    ##  #######  "
+sleep 0.1
+echo $putih " ##  #  #   ##   #  ##       ##   ##  ##  ##   ### ###   ##   #  "
+sleep 0.1
+echo $putih " ## ### #   ##      ##       ##    #  #    #   # ## ##   ##     "
+sleep 0.1
+echo $putih " ## ### #   #####   ##       ##       #    #   # ## ##   #####  "
+sleep 0.1
+echo $putih " ## ### #   ##      ##   #   ##       #    #   # ## ##   ##     "
+sleep 0.1
+echo $putih "  ## ###    ##   #  ##  ##   ##   ##  ##  ##   #  # ##   ##   #  "
+sleep 0.1
+echo $putih "  ##  ##   ####### #######    #####    ####   ###   ##  #######  "
+sleep 0.1
+echo $putih " ########   ####            ##    ## #### ###  "
+sleep 0.1
+echo $putih " #  ##  #  ##  ##            ### ###  ##   #  "
+sleep 0.1
+echo $putih "    ##     #    #            # ## ##   ## #   "
+sleep 0.1
+echo $putih "    ##     #    #            # ## ##    ##    "
+sleep 0.1
+echo $putih "    ##     #    #            # ## ##    ##    "
+sleep 0.1
+echo $putih "    ##     ##  ##            #  # ##    ##    "
+sleep 0.1
+echo $putih "   ####     ####            ###   ##   ####   "
+sleep 0.1
+echo $putih "   #####    ###### ######    ######  ######   ######## "
+sleep 0.1
+echo $putih "  ##   #   ##   ##  ##  ##     ##     ##  ##  #  ##  # "
+sleep 0.1
+echo $putih "  ###      ##    #  ##  ##     ##     ##  ##     ##    "
+sleep 0.1
+echo $putih "   ####    ##       #####      ##     #####      ##    "
+sleep 0.1
+echo $putih "     ###   ##       ## ##      ##     ##         ##    "
+sleep 0.1
+echo $putih "  #   ##   ##   ##  ##  ##     ##     ##         ##    "
+sleep 0.1
+echo $putih "  #####     #####  #### ###  ######  ####       ####   "
+sleep 0.1
+
+echo $kuning "__________________________________________________________________________"
+   
+read -p "masukan nama anda di sini :" nama
+sleep 0.2
+echo $hijau "selamat datang di script cyber noob Tuan" $nama
+sleep 3
+echo $merah "gunakan script ini dengan bijak !!!"
+sleep 3
+  
+clear
+                   
 echo $merah " #  #          #       ## #  "
+sleep 0.1
 echo $kuning " #  #          #       #  #  "
+sleep 0.1
 echo $hijau " #### ###   ## # ##   ### ###  "
+sleep 0.1
 echo $biru " #  #  ##  #   ###     #  #  # "
+sleep 0.1
 echo $putih " #  # # #  #   ###     #  #  #  "
+sleep 0.1
 echo $ungu " #  # ## #  ## # ##    #  ###  "
-                                                     
+sleep 0.1
+                                                    
 echo $merah "                   #####           #   "
+sleep 0.1
 echo $kuning "                     #             #      "
+sleep 0.1
 echo $hijau "                     #    ##   ##  # ###  " 
+sleep 0.1
 echo $biru "                     #   #  # #  # # ##  "
+sleep 0.1
 echo $putih "                     #   #  # #  # #   #  " 
+sleep 0.1
 echo $ungu "                     #    ##   ##  # ###   "                       
-                                         
+sleep 0.1  
+                                       
 echo $merah"=================================================="
+sleep 0.1
 echo $kuning"=================================================="
+sleep 0.1
 echo $hijau"=================================================="
+sleep 0.1
 echo $biru" Author    : Noob Cyber        "
+sleep 0.1
 echo $biru" Youtube   : Seven Gaming     "
+sleep 0.1
 echo $biru" Github    : https://github.com/Seven-Gaming/Hackfb  "
+sleep 0.1
 echo $biru" Thanks To : Konpoi (Duocyberteam) "
+sleep 0.1
 echo $merah"=================================================="
+sleep 0.1
 echo $kuning"=================================================="
+sleep 0.1
 echo $hijau"=================================================="
+sleep 0.1
 
 ulang="y"
 while [ $ulang = "y" ];
 do
   echo $hijau"pilih menu"
+  sleep 0.1
   echo $hijau"( 1 ) Install bahan bahan"
+  sleep 0.1
   echo $hijau"( 2 ) Dark fb neW"
+  sleep 0.1
   echo $hijau"( 3 ) MBF"
+  sleep 0.1
   echo $hijau"( 4 ) Dark fb premium"
+  sleep 0.1
   echo $hijau"( 5 ) Spam Sms"
+  sleep 0.1
   echo $hijqu"( 6 ) Spam Call"
+  sleep 0.1
   echo $hijau"( 7 ) Hack CCTV"
-  echo $hijau"( 8 ) Dark fb simpel script" 
+  sleep 0.1
+  echo $hijau"( 8 ) Dark fb simpel script"
+  sleep 0.1 
   echo $hijau"( 9 )$biru Hack WA$hijau msfgaf"
+  sleep 0.1
   echo $hijau"( 10 )$biru Hack WA$hijau msfkit"
+  sleep 0.1
   echo $hijau"( 11 )$biru Hack WA$hijau msfkuy $kuning=============> $hijau PASSWORD =$merah buka1234"
+  sleep 0.1
   echo $merah"( 0 ) exit"
+  sleep 0.1
   read -p "masukan pilihan anda : " pilih;
+  sleep 0.1
   if [ $pilih = "1" ];
   then
       echo "installing......"
