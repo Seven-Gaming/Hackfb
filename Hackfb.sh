@@ -175,6 +175,7 @@ clear
       git clone https://github.com/pirmansx/mbf
       cd mbf
       python2 MBF.py
+      clear
       sleep 1
 clear
 
