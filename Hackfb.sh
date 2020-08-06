@@ -264,7 +264,9 @@ clear
 
   elif [ $pilih = "0" ];
   then
+      echo $kuning "================================================="
       echo $hijau "terimakasih telah menggunakan script kami !!! "
+      echo $kuning "================================================="
       sleep 2
       exit
   else
