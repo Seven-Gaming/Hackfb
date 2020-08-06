@@ -66,49 +66,45 @@ clear
 
 echo $merah " #  #          #       ## #  "
 sleep 0.1
-echo $kuning " #  #          #       #  #  "
+echo $merah " #  #          #       #  #  "
 sleep 0.1
-echo $hijau " #### ###   ## # ##   ### ###  "
+echo $merah " #### ###   ## # ##   ### ###  "
 sleep 0.1
-echo $biru " #  #  ##  #   ###     #  #  # "
+echo $merah " #  #  ##  #   ###     #  #  # "
 sleep 0.1
-echo $putih " #  # # #  #   ###     #  #  #  "
+echo $merah " #  # # #  #   ###     #  #  #  "
 sleep 0.1
-echo $ungu " #  # ## #  ## # ##    #  ###  "
+echo $merah " #  # ## #  ## # ##    #  ###  "
 sleep 0.1
                                                      
-echo $merah "                   #####           #   "
+echo $putih "                   #####           #   "
 sleep 0.1
-echo $kuning "                     #             #      "
+echo $putih "                     #             #      "
 sleep 0.1
-echo $hijau "                     #    ##   ##  # ###  " 
+echo $putih "                     #    ##   ##  # ###  " 
 sleep 0.1
-echo $biru "                     #   #  # #  # # ##  "
+echo $putih "                     #   #  # #  # # ##  "
 sleep 0.1
 echo $putih "                     #   #  # #  # #   #  " 
 sleep 0.1
-echo $ungu "                     #    ##   ##  # ###   "                       
+echo $putih "                     #    ##   ##  # ###   "                       
 sleep 0.1
                                          
 echo $merah"=================================================="
 sleep 0.1
-echo $kuning"=================================================="
+echo $putih"=================================================="
 sleep 0.1
-echo $hijau"=================================================="
+echo $merah" Author    : Noob Cyber        "
 sleep 0.1
-echo $biru" Author    : Noob Cyber        "
+echo $putih" Youtube   : Seven Gaming     "
 sleep 0.1
-echo $biru" Youtube   : Seven Gaming     "
+echo $merah" Github    : https://github.com/Seven-Gaming/Hackfb  "
 sleep 0.1
-echo $biru" Github    : https://github.com/Seven-Gaming/Hackfb  "
-sleep 0.1
-echo $biru" Thanks To : Konpoi (Duocyberteam) "
+echo $putih" Thanks To : Konpoi (Duocyberteam) "
 sleep 0.1
 echo $merah"=================================================="
 sleep 0.1
-echo $kuning"=================================================="
-sleep 0.1
-echo $hijau"=================================================="
+echo $putih"=================================================="
 sleep 0.1
 
 ulang="y"
